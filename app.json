@@ -13,15 +13,15 @@
      }, 
     "UUID": {
        "description": "Vmess协议默认UUID，请输入自己的UUID",
-       "value": "4890bd47-5180-4b1c-9a5d-3ef686543112"
+       "value": "80887fe6-7016-40f3-9168-9befd77eacd6"
      },
     "AlterID": {
        "description": "AlterID大小，推荐10，数值越大内存占用越高",
        "value": "10"
      }, 
     "V2_Path": {
-       "description": "Path路径，默认/FreeApp",
-       "value": "/FreeApp"
+       "description": "Path路径，默认/haoyang624",
+       "value": "/haoyang624"
      },
     "V2_QR_Path": {
        "description": "二维码和订阅地址路径，默认1234。如AppName变量为no，此变量没有作用",
